@@ -33,7 +33,7 @@ body {
 
 header {
     padding: 10px;
-    min-width: 3400px;
+    min-width: 400px;
     min-height: 100px;
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor2));
     color: white;
